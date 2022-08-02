@@ -1,0 +1,26 @@
+{
+  "name": "shri-summer-2022-unit-test-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sensetive5/shri-summer-2022-unit-test-example.git"
+  },
+  "keywords": [],
+  "author": "Alexander Sokolov <owngr@yandex-team.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sensetive5/shri-summer-2022-unit-test-example/issues"
+  },
+  "homepage": "https://github.com/sensetive5/shri-summer-2022-unit-test-example#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.9",
+    "@babel/preset-env": "^7.18.9",
+    "babel-jest": "^28.1.3",
+    "jest": "^28.1.3"
+  }
+}
